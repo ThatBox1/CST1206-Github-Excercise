@@ -65,4 +65,3 @@ buttonSort.addEventListener('click', function () {
         subBody2.classList.remove('sub-body4')
     }
 })
-console.log("Hello World!")
